@@ -13,3 +13,5 @@
 #' 
 #' Set loop? 
 #' use if to check if lives is less 
+
+#HA: Great plan! logical flow, looking forward to seeing how it was implemented!
